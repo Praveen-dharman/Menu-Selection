@@ -1,0 +1,163 @@
+{
+  "1": [
+    { "name": "Chicken", "quantity": "500g" },
+    { "name": "Yogurt", "quantity": "1 cup" },
+    { "name": "Ginger garlic paste", "quantity": "2 tbsp" },
+    { "name": "Lemon juice", "quantity": "2 tbsp" },
+    { "name": "Tandoori masala", "quantity": "3 tbsp" },
+    { "name": "Red chili powder", "quantity": "1 tsp" },
+    { "name": "Garam masala", "quantity": "1 tsp" },
+    { "name": "Salt", "quantity": "to taste" },
+    { "name": "Oil", "quantity": "2 tbsp" }
+  ],
+  "2": [
+    { "name": "Black lentils", "quantity": "1 cup" },
+    { "name": "Red kidney beans", "quantity": "1/4 cup" },
+    { "name": "Butter", "quantity": "3 tbsp" },
+    { "name": "Cream", "quantity": "1/4 cup" },
+    { "name": "Tomatoes", "quantity": "2 medium" },
+    { "name": "Onions", "quantity": "1 large" },
+    { "name": "Ginger garlic paste", "quantity": "1 tbsp" },
+    { "name": "Garam masala", "quantity": "1 tsp" },
+    { "name": "Cumin powder", "quantity": "1 tsp" }
+  ],
+  "3": [
+    { "name": "Paneer", "quantity": "250g" },
+    { "name": "Bell peppers", "quantity": "1 cup" },
+    { "name": "Onions", "quantity": "1 medium" },
+    { "name": "Yogurt", "quantity": "1/2 cup" },
+    { "name": "Ginger garlic paste", "quantity": "1 tbsp" },
+    { "name": "Lemon juice", "quantity": "1 tbsp" },
+    { "name": "Chaat masala", "quantity": "1 tsp" },
+    { "name": "Turmeric powder", "quantity": "1/2 tsp" },
+    { "name": "Red chili powder", "quantity": "1 tsp" }
+  ],
+  "4": [
+    { "name": "Chicken", "quantity": "500g" },
+    { "name": "Butter", "quantity": "4 tbsp" },
+    { "name": "Cream", "quantity": "1/2 cup" },
+    { "name": "Tomato puree", "quantity": "1 cup" },
+    { "name": "Cashew paste", "quantity": "2 tbsp" },
+    { "name": "Ginger garlic paste", "quantity": "1 tbsp" },
+    { "name": "Garam masala", "quantity": "1 tsp" },
+    { "name": "Kasuri methi", "quantity": "1 tsp" },
+    { "name": "Honey", "quantity": "1 tsp" }
+  ],
+  "5": [
+    { "name": "Chickpeas", "quantity": "2 cups" },
+    { "name": "All-purpose flour", "quantity": "2 cups" },
+    { "name": "Yogurt", "quantity": "1/2 cup" },
+    { "name": "Onions", "quantity": "2 medium" },
+    { "name": "Tomatoes", "quantity": "2 medium" },
+    { "name": "Chole masala", "quantity": "2 tbsp" },
+    { "name": "Tea bags", "quantity": "2 pieces" },
+    { "name": "Baking powder", "quantity": "1/2 tsp" },
+    { "name": "Oil", "quantity": "for frying" }
+  ],
+  "6": [
+    { "name": "All-purpose flour", "quantity": "2 cups" },
+    { "name": "Potatoes", "quantity": "3 medium" },
+    { "name": "Peas", "quantity": "1/2 cup" },
+    { "name": "Cumin seeds", "quantity": "1 tsp" },
+    { "name": "Coriander powder", "quantity": "1 tsp" },
+    { "name": "Amchur powder", "quantity": "1/2 tsp" },
+    { "name": "Garam masala", "quantity": "1/2 tsp" },
+    { "name": "Green chilies", "quantity": "2 pieces" },
+    { "name": "Oil", "quantity": "for frying" }
+  ],
+  "7": [
+    { "name": "Milk powder", "quantity": "1 cup" },
+    { "name": "All-purpose flour", "quantity": "1/4 cup" },
+    { "name": "Sugar", "quantity": "2 cups" },
+    { "name": "Water", "quantity": "2 cups" },
+    { "name": "Cardamom powder", "quantity": "1/2 tsp" },
+    { "name": "Rose water", "quantity": "1 tsp" },
+    { "name": "Baking powder", "quantity": "1/4 tsp" },
+    { "name": "Milk", "quantity": "1/2 cup" },
+    { "name": "Oil", "quantity": "for frying" }
+  ],
+  "8": [
+    { "name": "All-purpose flour", "quantity": "2 cups" },
+    { "name": "Yogurt", "quantity": "1/4 cup" },
+    { "name": "Baking powder", "quantity": "1/2 tsp" },
+    { "name": "Sugar", "quantity": "1 tsp" },
+    { "name": "Salt", "quantity": "1/2 tsp" },
+    { "name": "Nigella seeds", "quantity": "1/2 tsp" },
+    { "name": "Butter", "quantity": "for brushing" },
+    { "name": "Milk", "quantity": "1/2 cup" }
+  ],
+  "9": [
+    { "name": "Basmati rice", "quantity": "2 cups" },
+    { "name": "Chicken", "quantity": "500g" },
+    { "name": "Onions", "quantity": "3 large" },
+    { "name": "Yogurt", "quantity": "1/2 cup" },
+    { "name": "Biryani masala", "quantity": "3 tbsp" },
+    { "name": "Saffron", "quantity": "a pinch" },
+    { "name": "Milk", "quantity": "1/4 cup" },
+    { "name": "Mint leaves", "quantity": "1/4 cup" },
+    { "name": "Coriander leaves", "quantity": "1/4 cup" }
+  ],
+  "10": [
+    { "name": "Yogurt", "quantity": "2 cups" },
+    { "name": "Cucumber", "quantity": "1 medium" },
+    { "name": "Tomato", "quantity": "1 small" },
+    { "name": "Roasted cumin powder", "quantity": "1 tsp" },
+    { "name": "Black salt", "quantity": "1/2 tsp" },
+    { "name": "Mint leaves", "quantity": "2 tbsp" },
+    { "name": "Coriander leaves", "quantity": "2 tbsp" },
+    { "name": "Green chili", "quantity": "1 piece" }
+  ],
+  "11": [
+    { "name": "Chicken breast", "quantity": "500g" },
+    { "name": "Yogurt", "quantity": "1/2 cup" },
+    { "name": "Ginger garlic paste", "quantity": "1 tbsp" },
+    { "name": "Lemon juice", "quantity": "1 tbsp" },
+    { "name": "Red chili powder", "quantity": "1 tsp" },
+    { "name": "Turmeric powder", "quantity": "1/2 tsp" },
+    { "name": "Garam masala", "quantity": "1 tsp" },
+    { "name": "Kasuri methi", "quantity": "1 tsp" },
+    { "name": "Oil", "quantity": "2 tbsp" }
+  ],
+  "12": [
+    { "name": "Basmati rice", "quantity": "1/4 cup" },
+    { "name": "Milk", "quantity": "1 liter" },
+    { "name": "Sugar", "quantity": "1/2 cup" },
+    { "name": "Cardamom powder", "quantity": "1/2 tsp" },
+    { "name": "Saffron", "quantity": "a pinch" },
+    { "name": "Almonds", "quantity": "2 tbsp" },
+    { "name": "Pistachios", "quantity": "2 tbsp" },
+    { "name": "Raisins", "quantity": "1 tbsp" },
+    { "name": "Rose water", "quantity": "1 tsp" }
+  ],
+  "13": [
+    { "name": "Potatoes", "quantity": "3 medium" },
+    { "name": "Cauliflower", "quantity": "1 small" },
+    { "name": "Onions", "quantity": "1 large" },
+    { "name": "Tomatoes", "quantity": "2 medium" },
+    { "name": "Ginger", "quantity": "1 inch" },
+    { "name": "Green chilies", "quantity": "2 pieces" },
+    { "name": "Turmeric powder", "quantity": "1/2 tsp" },
+    { "name": "Coriander powder", "quantity": "1 tsp" },
+    { "name": "Cumin seeds", "quantity": "1 tsp" }
+  ],
+  "14": [
+    { "name": "Urad dal flour", "quantity": "1 cup" },
+    { "name": "Rice flour", "quantity": "1/4 cup" },
+    { "name": "Cumin seeds", "quantity": "1 tsp" },
+    { "name": "Black pepper", "quantity": "1/2 tsp" },
+    { "name": "Salt", "quantity": "to taste" },
+    { "name": "Water", "quantity": "as needed" },
+    { "name": "Oil", "quantity": "for frying" }
+  ],
+  "15": [
+    { "name": "All-purpose flour", "quantity": "1 cup" },
+    { "name": "Corn flour", "quantity": "1 tbsp" },
+    { "name": "Yogurt", "quantity": "2 tbsp" },
+    { "name": "Sugar", "quantity": "2 cups" },
+    { "name": "Water", "quantity": "1.5 cups" },
+    { "name": "Cardamom powder", "quantity": "1/2 tsp" },
+    { "name": "Saffron", "quantity": "a pinch" },
+    { "name": "Lemon juice", "quantity": "1/2 tsp" },
+    { "name": "Oil", "quantity": "for frying" }
+  ]
+}

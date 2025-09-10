@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Tandoori Chicken",
+    "description": "Chicken marinated in yogurt and spices, cooked in a tandoor for a smoky flavor.",
+    "type": "NON_VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/tandoori_chicken.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 2,
+    "name": "Dal Makhani",
+    "description": "Creamy black lentils simmered with butter and spices, a classic North Indian dish.",
+    "type": "VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/dal_makhani.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 3,
+    "name": "Cabbage",
+    "description": "Fresh cabbage stir-fried with spices and herbs, offering a light and healthy dish.",
+    "type": "VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/cabbage.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 4,
+    "name": "Chole Bhature",
+    "description": "Spicy chickpeas served with fluffy deep-fried bread, a Punjabi specialty.",
+    "type": "VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/cabbage.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 5,
+    "name": "Butter Chicken",
+    "description": "Tender chicken in a rich, creamy tomato-based gravy with butter and spices.",
+    "type": "NON_VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/butter_chicken.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 6,
+    "name": "Samosa",
+    "description": "Crispy pastry filled with spiced potatoes and peas, served with chutney.",
+    "type": "VEG",
+    "mealType": "STARTER",
+    "image": "../assets/samosa.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 7,
+    "name": "Gulab Jamun",
+    "description": "Soft milk-solid dumplings soaked in rose-flavored sugar syrup.",
+    "type": "VEG",
+    "mealType": "DESSERT",
+    "image": "../assets/gulab_jamun.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 8,
+    "name": "Naan",
+    "description": "Soft, leavened flatbread cooked in a tandoor, perfect with curries.",
+    "type": "VEG",
+    "mealType": "SIDES",
+    "image": "../assets/naan.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 9,
+    "name": "Biryani",
+    "description": "Fragrant rice dish with marinated meat, spices, and herbs, cooked to perfection.",
+    "type": "NON_VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/biryani.jpg",
+    "cuisine": "Mughlai"
+  },
+  {
+    "id": 10,
+    "name": "Raita",
+    "description": "Cooling yogurt side dish with cucumbers, mint, and spices.",
+    "type": "VEG",
+    "mealType": "SIDES",
+    "image": "../assets/raita.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 11,
+    "name": "Chicken Tikka",
+    "description": "Boneless chicken pieces marinated in spices and grilled, a popular starter.",
+    "type": "NON_VEG",
+    "mealType": "STARTER",
+    "image": "../assets/chicken_tikka.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 12,
+    "name": "Kheer",
+    "description": "Creamy rice pudding with nuts and cardamom, a traditional Indian dessert.",
+    "type": "VEG",
+    "mealType": "DESSERT",
+    "image": "../assets/kheer.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 13,
+    "name": "Aloo Gobi",
+    "description": "Dry curry made with potatoes and cauliflower, seasoned with Indian spices.",
+    "type": "VEG",
+    "mealType": "MAIN COURSE",
+    "image": "../assets/aloo_gobi.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 14,
+    "name": "Papadum",
+    "description": "Thin, crisp disc-shaped food typically based on lentil flour.",
+    "type": "VEG",
+    "mealType": "SIDES",
+    "image": "../assets/papadum.jpg",
+    "cuisine": "Indian"
+  },
+  {
+    "id": 15,
+    "name": "Jalebi",
+    "description": "Sweet, coiled dessert made from deep-fried batter soaked in sugar syrup.",
+    "type": "VEG",
+    "mealType": "DESSERT",
+    "image": "../assets/jalebi.jpg",
+    "cuisine": "North Indian"
+  },
+  {
+    "id": 16,
+    "name": "Paneer Tikka",
+    "description": "Marinated paneer cubes grilled to perfection with bell peppers and onions.",
+    "type": "VEG",
+    "mealType": "STARTER",
+    "image": "../assets/paneer_tikka.jpg",
+    "cuisine": "North Indian"
+  }
+]
