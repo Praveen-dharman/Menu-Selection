@@ -10,7 +10,7 @@ This is a simple React Native app built using the React Native CLI that displays
 - Easy navigation with a back button.
 
 ## Installation
-1. Make sure you have [Node.js](https://nodejs.org/) and either [Expo CLI](https://docs.expo.dev/get-started/installation/) or React Native CLI installed.
+1. Make sure you have [Node.js](https://nodejs.org/) and  React Native CLI installed.
 2. Clone this repository:
    git clone https://github.com/Praveen-dharman/Menu-Selection.git
 
@@ -22,6 +22,6 @@ This is a simple React Native app built using the React Native CLI that displays
 
 5. Run the metro bundler:
     npx react-native start
-    
+
 6. Run the app on Android:
     npx react-native run-android
